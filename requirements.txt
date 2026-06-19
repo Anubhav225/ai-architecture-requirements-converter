@@ -1,0 +1,17 @@
+# AI Architecture Designer - Requirements
+# Python 3.9+
+
+# Core
+streamlit==1.38.0
+groq>=1.4.0
+python-dotenv==1.0.0
+
+# Document Parsing
+pypdf==4.3.1
+python-docx==1.1.2
+
+# Data Processing
+pandas==2.2.2
+
+# Export
+reportlab==4.2.2
