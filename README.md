@@ -1,5 +1,5 @@
 # 🏗️ AI Architecture Designer
-**Convert requirements into software architecture — powered by Groq
+Convert requirements into software architecture — powered by Groq
 
 ---
 
